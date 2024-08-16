@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Head
+  - Body
+  - PickUp
+  - flesh
+  - HealthBar
+  - unknown_20013
+  - unknown_20012
+  - unknown_20011
+  - unknown_20014
+  - Enemy
+  - Punch
+  - MoveTo
+  - kill
+  - CanvasToChild
+  - Health
+  - MedicalKit
+  - CashReward
+  - Missile
+  - Fire
+  - ActionBullet
+  - WeaponCamera
+  - cameraBack
+  - GetPosition
+  - Pos1
+  - Pos2
+  - Pos3
+  - DisplaySideCamera
+  - FireButton
+  - ShotGun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - HeadShotNow
+  - HeadShotDone
+  - BehindUI
+  - GunsBg
+  - GunLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindUI
+    uniqueID: 2628385299
+    locked: 0

@@ -1,0 +1,335 @@
+Converting script [1 / 30]	[\fpsWeapons\scripts\akimboShooter.cs]
+	Fragments : 9
+		[ 0] : Line:  107	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  125	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  132	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  159	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  159	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  184	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  184	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  202	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  202	InputMethod   GetAxis             	("Fire1")
+
+Converting script [2 / 30]	[\fpsWeapons\scripts\AutoShooter.cs]
+	Fragments : 9
+		[ 0] : Line:  170	InputMethod   GetButton           	("Fire1")
+		[ 1] : Line:  170	InputMethod   GetAxis             	("Fire1")
+		[ 2] : Line:  177	InputMethod   GetButton           	("ThrowGrenade")
+		[ 3] : Line:  188	InputMethod   GetButton           	("Melee")
+		[ 4] : Line:  195	InputMethod   GetButton           	("Reload")
+		[ 5] : Line:  217	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  217	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  273	InputMethod   GetButton           	("Aim")
+		[ 8] : Line:  273	InputMethod   GetAxis             	("Aim")
+
+Converting script [3 / 30]	[\fpsWeapons\scripts\baseballbat.cs]
+	Fragments : 3
+		[ 0] : Line:  103	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  112	InputMethod   GetButton           	("Fire1")
+		[ 2] : Line:  112	InputMethod   GetAxis             	("Fire1")
+
+Converting script [4 / 30]	[\fpsWeapons\scripts\blaster.cs]
+	Fragments : 9
+		[ 0] : Line:  110	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  126	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  133	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  163	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  163	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  189	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  189	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  209	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  209	InputMethod   GetAxis             	("Fire1")
+
+Converting script [5 / 30]	[\fpsWeapons\scripts\bow.cs]
+	Fragments : 8
+		[ 0] : Line:  113	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  120	InputMethod   GetButton           	("Melee")
+		[ 2] : Line:  149	InputMethod   GetButton           	("Aim")
+		[ 3] : Line:  149	InputMethod   GetAxis             	("Aim")
+		[ 4] : Line:  178	InputMethod   GetButton           	("Fire1")
+		[ 5] : Line:  178	InputMethod   GetAxis             	("Fire1")
+		[ 6] : Line:  201	InputMethod   GetButton           	("Fire1")
+		[ 7] : Line:  201	InputMethod   GetAxis             	("Fire1")
+
+Converting script [6 / 30]	[\fpsWeapons\scripts\camerarotate.cs]
+	Fragments : 8
+		[ 0] : Line:   47	InputMethod   GetKey              	(KeyCode.Escape)
+		[ 1] : Line:   51	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   52	Other mod.	[Cursor.visible]
+		[ 3] : Line:   55	Other mod.	[Cursor.lockState]
+		[ 4] : Line:   58	InputMethod   GetButton           	("Aim")
+		[ 5] : Line:   69	InputMethod   GetAxis             	("Mouse Y")
+		[ 6] : Line:   95	InputMethod   GetAxis             	("Mouse Y")
+		[ 7] : Line:   97	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [7 / 30]	[\fpsWeapons\scripts\chainsaw.cs]
+	Fragments : 3
+		[ 0] : Line:   78	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  114	InputMethod   GetButton           	("Fire1")
+		[ 2] : Line:  114	InputMethod   GetAxis             	("Fire1")
+
+Converting script [8 / 30]	[\fpsWeapons\scripts\crossbow.cs]
+	Fragments : 8
+		[ 0] : Line:  106	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  113	InputMethod   GetButton           	("Melee")
+		[ 2] : Line:  141	InputMethod   GetButton           	("Aim")
+		[ 3] : Line:  141	InputMethod   GetAxis             	("Aim")
+		[ 4] : Line:  167	InputMethod   GetButton           	("Fire1")
+		[ 5] : Line:  167	InputMethod   GetAxis             	("Fire1")
+		[ 6] : Line:  193	InputMethod   GetButton           	("Fire1")
+		[ 7] : Line:  193	InputMethod   GetAxis             	("Fire1")
+
+Converting script [9 / 30]	[\fpsWeapons\scripts\door1.cs]
+	Fragments : 1
+		[ 0] : Line:   73	InputMethod   GetButtonDown       	("Action")
+
+Converting script [10 / 30]	[\fpsWeapons\scripts\flamethrower.cs]
+	Fragments : 9
+		[ 0] : Line:   98	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  112	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  119	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  146	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  146	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  172	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  172	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  191	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  191	InputMethod   GetAxis             	("Fire1")
+
+Converting script [11 / 30]	[\fpsWeapons\scripts\flashlight.cs]
+	Fragments : 3
+		[ 0] : Line:   81	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  121	InputMethod   GetButton           	("Fire1")
+		[ 2] : Line:  121	InputMethod   GetAxis             	("Fire1")
+
+Converting script [12 / 30]	[\fpsWeapons\scripts\gamecontrol1.cs]
+	Fragments : 1
+		[ 0] : Line:   14	InputMethod   GetButtonDown       	("Quit")
+
+Converting script [13 / 30]	[\fpsWeapons\scripts\genericShooter.cs]
+	Fragments : 9
+		[ 0] : Line:  110	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  126	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  133	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  163	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  163	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  191	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  191	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  211	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  211	InputMethod   GetAxis             	("Fire1")
+
+Converting script [14 / 30]	[\fpsWeapons\scripts\knife.cs]
+	Fragments : 5
+		[ 0] : Line:   83	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  121	InputMethod   GetButton           	("Aim")
+		[ 2] : Line:  121	InputMethod   GetAxis             	("Aim")
+		[ 3] : Line:  125	InputMethod   GetButton           	("Fire1")
+		[ 4] : Line:  125	InputMethod   GetAxis             	("Fire1")
+
+Converting script [15 / 30]	[\fpsWeapons\scripts\machinegun.cs]
+	Fragments : 9
+		[ 0] : Line:  117	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  135	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  142	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  168	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  168	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  259	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  259	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  299	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  299	InputMethod   GetAxis             	("Fire1")
+
+Converting script [16 / 30]	[\fpsWeapons\scripts\minigun.cs]
+	Fragments : 9
+		[ 0] : Line:  120	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  143	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  150	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  181	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  181	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  238	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  238	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  258	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  258	InputMethod   GetAxis             	("Fire1")
+
+Converting script [17 / 30]	[\fpsWeapons\scripts\molotov.cs]
+	Fragments : 5
+		[ 0] : Line:  111	InputMethod   GetButton           	("Melee")
+		[ 1] : Line:  136	InputMethod   GetButton           	("Fire1")
+		[ 2] : Line:  136	InputMethod   GetAxis             	("Fire1")
+		[ 3] : Line:  148	InputMethod   GetButton           	("Fire1")
+		[ 4] : Line:  148	InputMethod   GetAxis             	("Fire1")
+
+Converting script [18 / 30]	[\fpsWeapons\scripts\playercontroller.cs]
+	Fragments : 5
+		[ 0] : Line:  132	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:  133	InputMethod   GetAxisRaw          	("Vertical")
+		[ 2] : Line:  213	InputMethod   GetButtonDown       	("Crouch")
+		[ 3] : Line:  241	InputMethod   GetButton           	("Jump")
+		[ 4] : Line:  316	InputMethod   GetButton           	("Fire2")
+
+Converting script [19 / 30]	[\fpsWeapons\scripts\playerrotate.cs]
+	Fragments : 8
+		[ 0] : Line:   46	InputMethod   GetKey              	(KeyCode.Escape)
+		[ 1] : Line:   50	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   51	Other mod.	[Cursor.visible]
+		[ 3] : Line:   54	Other mod.	[Cursor.lockState]
+		[ 4] : Line:   57	InputMethod   GetButton           	("Aim")
+		[ 5] : Line:   68	InputMethod   GetAxis             	("Mouse X")
+		[ 6] : Line:  110	InputMethod   GetAxis             	("Mouse X")
+		[ 7] : Line:  113	InputMethod   GetAxis             	("Mouse X")
+
+Converting script [20 / 30]	[\fpsWeapons\scripts\pulser.cs]
+	Fragments : 9
+		[ 0] : Line:   96	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  113	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  120	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  147	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  147	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  175	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  175	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  198	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  198	InputMethod   GetAxis             	("Fire1")
+
+Converting script [21 / 30]	[\fpsWeapons\scripts\remoter.cs]
+	Fragments : 7
+		[ 0] : Line:   96	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  112	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  119	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  155	InputMethod   GetButton           	("Fire1")
+		[ 4] : Line:  155	InputMethod   GetAxis             	("Fire1")
+		[ 5] : Line:  176	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  176	InputMethod   GetAxis             	("Fire1")
+
+Converting script [22 / 30]	[\fpsWeapons\scripts\revolver.cs]
+	Fragments : 9
+		[ 0] : Line:  127	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  143	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  150	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  180	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  180	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  273	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  273	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  296	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  296	InputMethod   GetAxis             	("Fire1")
+
+Converting script [23 / 30]	[\fpsWeapons\scripts\RPG.cs]
+	Fragments : 10
+		[ 0] : Line:  103	InputMethod   GetButton           	("ThrowGrenade")
+		[ 1] : Line:  110	InputMethod   GetButton           	("Melee")
+		[ 2] : Line:  136	InputMethod   GetButton           	("Aim")
+		[ 3] : Line:  136	InputMethod   GetAxis             	("Aim")
+		[ 4] : Line:  155	InputMethod   GetButton           	("Aim")
+		[ 5] : Line:  155	InputMethod   GetAxis             	("Aim")
+		[ 6] : Line:  176	InputMethod   GetButton           	("Fire1")
+		[ 7] : Line:  176	InputMethod   GetAxis             	("Fire1")
+		[ 8] : Line:  199	InputMethod   GetButton           	("Fire1")
+		[ 9] : Line:  199	InputMethod   GetAxis             	("Fire1")
+
+Converting script [24 / 30]	[\fpsWeapons\scripts\shield.cs]
+	Fragments : 9
+		[ 0] : Line:  112	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  128	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  135	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  167	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  167	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  200	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  200	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  220	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  220	InputMethod   GetAxis             	("Fire1")
+
+Converting script [25 / 30]	[\fpsWeapons\scripts\shotgun.cs]
+	Fragments : 9
+		[ 0] : Line:  108	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  124	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  131	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  171	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  171	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  199	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  199	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  222	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  222	InputMethod   GetAxis             	("Fire1")
+
+Converting script [26 / 30]	[\fpsWeapons\scripts\slugger.cs]
+	Fragments : 9
+		[ 0] : Line:  102	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  119	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  126	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  153	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  153	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  182	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  182	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  205	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  205	InputMethod   GetAxis             	("Fire1")
+
+Converting script [27 / 30]	[\fpsWeapons\scripts\sniper.cs]
+	Fragments : 9
+		[ 0] : Line:  105	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  121	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  128	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  158	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  158	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  184	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  184	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  207	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  207	InputMethod   GetAxis             	("Fire1")
+
+Converting script [28 / 30]	[\fpsWeapons\scripts\Thumper.cs]
+	Fragments : 9
+		[ 0] : Line:  113	InputMethod   GetButton           	("Reload")
+		[ 1] : Line:  129	InputMethod   GetButton           	("ThrowGrenade")
+		[ 2] : Line:  136	InputMethod   GetButton           	("Melee")
+		[ 3] : Line:  166	InputMethod   GetButton           	("Aim")
+		[ 4] : Line:  166	InputMethod   GetAxis             	("Aim")
+		[ 5] : Line:  191	InputMethod   GetButton           	("Fire1")
+		[ 6] : Line:  191	InputMethod   GetAxis             	("Fire1")
+		[ 7] : Line:  212	InputMethod   GetButton           	("Fire1")
+		[ 8] : Line:  212	InputMethod   GetAxis             	("Fire1")
+
+Converting script [29 / 30]	[\fpsWeapons\scripts\weaponselector.cs]
+	Fragments : 6
+		[ 0] : Line:  258	InputMethod   GetButtonDown       	("Inventory")
+		[ 1] : Line:  290	InputMethod   GetAxis             	("Horizontal")
+		[ 2] : Line:  306	InputMethod   GetAxis             	("Horizontal")
+		[ 3] : Line:  321	InputMethod   GetAxis             	("Vertical")
+		[ 4] : Line:  337	InputMethod   GetAxis             	("Vertical")
+		[ 5] : Line:  463	InputMethod   GetButtonDown       	("Fire1")
+
+Converting script [30 / 30]	[\fpsWeapons\scripts\weaponselectorOLD.cs]
+	Fragments : 3
+		[ 0] : Line:   82	InputMethod   GetAxis             	("CycleWeapons")
+		[ 1] : Line:   84	InputMethod   GetButtonDown       	("CycleWeapons")
+		[ 2] : Line:  110	InputMethod   GetAxis             	("CycleWeapons")
+
+
+30 scripts modified!
+Overwriting actual scripts...
+	[0 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\akimboShooter.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\akimboShooter.cs]
+	[1 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\AutoShooter.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\AutoShooter.cs]
+	[2 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\baseballbat.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\baseballbat.cs]
+	[3 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\blaster.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\blaster.cs]
+	[4 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\bow.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\bow.cs]
+	[5 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\camerarotate.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\camerarotate.cs]
+	[6 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\chainsaw.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\chainsaw.cs]
+	[7 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\crossbow.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\crossbow.cs]
+	[8 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\door1.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\door1.cs]
+	[9 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\flamethrower.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\flamethrower.cs]
+	[10 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\flashlight.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\flashlight.cs]
+	[11 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\gamecontrol1.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\gamecontrol1.cs]
+	[12 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\genericShooter.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\genericShooter.cs]
+	[13 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\knife.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\knife.cs]
+	[14 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\machinegun.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\machinegun.cs]
+	[15 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\minigun.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\minigun.cs]
+	[16 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\molotov.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\molotov.cs]
+	[17 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\playercontroller.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\playercontroller.cs]
+	[18 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\playerrotate.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\playerrotate.cs]
+	[19 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\pulser.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\pulser.cs]
+	[20 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\remoter.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\remoter.cs]
+	[21 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\revolver.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\revolver.cs]
+	[22 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\RPG.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\RPG.cs]
+	[23 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\shield.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\shield.cs]
+	[24 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\shotgun.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\shotgun.cs]
+	[25 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\slugger.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\slugger.cs]
+	[26 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\sniper.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\sniper.cs]
+	[27 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\Thumper.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\Thumper.cs]
+	[28 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\weaponselector.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\weaponselector.cs]
+	[29 / 30] from  [C:/_Working/FPS Game New/CF2-Data/Script-Backups/2020-10-27-14-50\Assets-After/\fpsWeapons\scripts\weaponselectorOLD.cs] to [C:/_Working/FPS Game New/Assets/\fpsWeapons\scripts\weaponselectorOLD.cs]
+
+Overwriting COMPLETED!
