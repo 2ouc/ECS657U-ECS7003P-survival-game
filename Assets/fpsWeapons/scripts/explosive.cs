@@ -1,0 +1,42 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class explosive : MonoBehaviour {
+	public float hitpoints = 100f;
+	public Transform spawnobject;
+	public GameObject explosion;
+	public float radius = 3.0f;
+	public float power = 100.0f;
+	public LayerMask layer;
+	// Use this for initialization
+	void Start () {
+	
+	}
+	
+	// Update is called once per frame
+	void Update () 
+	{
+		if (hitpoints <= 0)
+		{
+			Instantiate(spawnobject, transform.position, transform.rotation);
+			Instantiate(explosion, transform.position, Quaternion.identity);
+			Vector3 explosionPos = transform.position;
+			Collider[] colliders = Physics.OverlapSphere(explosionPos, radius, layer);
+			foreach (Collider hit in colliders) 
+			{
+				if (hit.GetComponent<Rigidbody>() != null/* && !hit.GetComponent<playercontroller>()*/)
+				{
+					Rigidbody rb = hit.GetComponent<Rigidbody>();
+					//Debug.Log(rb.gameObject.name);
+					rb.AddExplosionForce(power, explosionPos, radius, 1.0f);
+				}
+			}
+			Destroy (gameObject);
+		}
+	
+	}
+	void Damage (float damage) 
+	{
+		hitpoints = hitpoints - damage;
+	}
+}
