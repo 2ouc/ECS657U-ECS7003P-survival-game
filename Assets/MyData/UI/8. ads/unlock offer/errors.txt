@@ -1,0 +1,2 @@
+[2020-11-5 11:22:41] layer "unlock alllevels.png copy": Expected end of input but "c" found.
+[2020-11-5 11:22:41] layer "maps.png copy": Expected end of input but "c" found.

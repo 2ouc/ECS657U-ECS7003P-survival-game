@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Concrete_fence_v2_lattice_S_12__2_
+  serializedVersion: 9
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 36
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 24
+    localAABB:
+      m_Center: {x: -0.4783629, y: 0.960309, z: -0.4498882}
+      m_Extent: {x: 0, y: 1.335293, z: 17.27166}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 3
+  m_IsReadable: 1
+  m_KeepVertices: 0
+  m_KeepIndices: 0
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 72
+      m_Range: 34.54332
+      m_Start: -17.72155
+      m_Data: ff4599ea7f02feff5f94ffff2760aaff4599ea7f51feff9f80ffff2760aaff4549d57f02a6fa5f94a9fe272055ff4549d57f51a6fa9f80a9fe272055ff4509c07f025af55f9456fd272000ff4509c07f515af59f8056fd272000
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 96
+      m_Range: 12.07423
+      m_Start: -5.537115
+      m_Data: ff7f9d00806200709dff8f62ff7f9d00709d008062ff8f62ff7f9d00806200709dff8f62ff7f9d00709d008062ff8f62ff7f9d00806200709dff8f62ff7f9d00709d008062ff8f62fe677aa4f877a4687afef777fee77757e777577775fe777557677afef777fe677a57f777a4e877fee777fe7775a47875ffd77ca5787aa5d87cff777afed77c57d77c57777afe777a
+      m_BitSize: 12
+    m_Normals:
+      m_NumItems: 48
+      m_Range: 1.999748
+      m_Start: -0.999874
+      m_Data: 0008800008803ff8833ff8830008800008803ff8833ff8830008800008803ff8833ff883
+      m_BitSize: 6
+    m_Tangents:
+      m_NumItems: 48
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 24
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 48
+      m_Data: 00aa00aa00aa
+      m_BitSize: 1
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 36
+      m_Data: 2008300229c61c8292422bb1e6dc63304a3823add65e0a
+      m_BitSize: 5
+    m_UVInfo: 85
+  m_LocalAABB:
+    m_Center: {x: -0.4783629, y: 0.960309, z: -0.4498882}
+    m_Extent: {x: 0, y: 1.335293, z: 17.27166}
+  m_MeshUsageFlags: 16
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshMetrics[0]: 0.9174438
+  m_MeshMetrics[1]: 553.0037
+  m_MeshOptimized: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path:
