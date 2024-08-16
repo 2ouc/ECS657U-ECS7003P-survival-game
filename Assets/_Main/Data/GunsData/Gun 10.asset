@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81fc20ded4b43e442ac9519b63bb9cca, type: 3}
+  m_Name: Gun 10
+  m_EditorClassIdentifier: 
+  Name: GLOCK - 17
+  SelectionModel: {fileID: 6081795587353967801, guid: b7732b488b0493949a917a55d9fc5574,
+    type: 3}
+  GamePlayModel: {fileID: 3229554521724037250, guid: a0b9f5580ae9dcc4d901856fc9c00125,
+    type: 3}
+  IsUnlocked: 0
+  locked: 1
+  Price: 20000
+  Selected: 0
+  Damage: 97
+  FireRate: 93
+  Mobility: 94
+  Ammo: 96
+  Range: 71

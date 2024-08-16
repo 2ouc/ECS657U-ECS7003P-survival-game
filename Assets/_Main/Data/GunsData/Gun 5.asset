@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81fc20ded4b43e442ac9519b63bb9cca, type: 3}
+  m_Name: Gun 5
+  m_EditorClassIdentifier: 
+  Name: G36
+  SelectionModel: {fileID: 1728336854596816616, guid: f5c70c8cb72a76949adb661388ef4de3,
+    type: 3}
+  GamePlayModel: {fileID: 256560625678955450, guid: 68bf333878eeb654f9d779b56c490995,
+    type: 3}
+  IsUnlocked: 0
+  locked: 1
+  Price: 11000
+  Selected: 0
+  Damage: 60
+  FireRate: 90
+  Mobility: 75
+  Ammo: 80
+  Range: 70
