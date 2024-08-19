@@ -1,8 +1,3 @@
-# due to some issue with uploding the project here "Github" i have upload all the file in google drive and here is the link below.
-https://drive.google.com/file/d/1u-_zgLa2X__Gz35jrfT-Zz19Iz4AITIp/view?usp=sharing
-
-
-
 # Modern FPS Gun Shooter
 
 This is a Unity project created using **Unity 2020.3.48f1**. The game is designed to be a fun and engaging experience, and you can explore the project, modify it, or use it as a reference for your own projects.
